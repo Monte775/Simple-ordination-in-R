@@ -113,5 +113,5 @@ CCA<-cca(dep.var.hel, indep.var)
 ##### Test CCA model significance, model is significant if p<0.05
 anova.cca(CCA)
 
-##### CCA 시각화
+##### Plot CCA
 plot(CCA)
